@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Popis_proizvoda>
+  <Proizvod>
+    <SifraProizvoda>5555</SifraProizvoda>
+    <Naziv>VES MASINA SAMSUNG WW80T4020EE1LE</Naziv>
+    <Cijena>1300</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Zecevic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>7777</SifraProizvoda>
+    <Naziv>VES MASINA SAMSUNG WW80T534DAX/S7</Naziv>
+    <Cijena>839</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Zecevic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>2020</SifraProizvoda>
+    <Naziv>BOJLER ARISTON VELIS 80 L</Naziv>
+    <Cijena>100</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Zecevic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>9999</SifraProizvoda>
+    <Naziv>TELEFON SAMSUNG FOLD2</Naziv>
+    <Cijena>999</Cijena>
+    <Kategorija>telefoni</Kategorija>
+    <Serviser>Zecevic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>4040</SifraProizvoda>
+    <Naziv>Iphone 5</Naziv>
+    <Cijena>300</Cijena>
+    <Kategorija>telefoni</Kategorija>
+    <Serviser>Zecevic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1111</SifraProizvoda>
+    <Naziv>LAPTOP DELL VOSTRO 3591 12GB</Naziv>
+    <Cijena>500</Cijena>
+    <Kategorija>laptopovi</Kategorija>
+    <Serviser>Zecevic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>3333</SifraProizvoda>
+    <Naziv>LAPTOP DELL VOSTRO 3591</Naziv>
+    <Cijena>450</Cijena>
+    <Kategorija>laptopovi</Kategorija>
+    <Serviser>Zecevic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>6666</SifraProizvoda>
+    <Naziv>HLADNJAK KOMB.SAMSUNG RB34T652EB1</Naziv>
+    <Cijena>450</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Milovic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1010</SifraProizvoda>
+    <Naziv>BOJLER ARISTON ARKS 5/O</Naziv>
+    <Cijena>60</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Milovic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>3030</SifraProizvoda>
+    <Naziv>BOJLER GORENJE TEG 0520 O/A</Naziv>
+    <Cijena>77</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Milovic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>2222</SifraProizvoda>
+    <Naziv>LAPTOP ASUS X543MA-WBP15</Naziv>
+    <Cijena>300</Cijena>
+    <Kategorija>laptopovi</Kategorija>
+    <Serviser>Milovic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>4444</SifraProizvoda>
+    <Naziv>LAPTOP ASUS X515</Naziv>
+    <Cijena>2000</Cijena>
+    <Kategorija>laptopovi</Kategorija>
+    <Serviser>Milovic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>8888</SifraProizvoda>
+    <Naziv>LAPTOP LENOVO IDEAPAD 14AST 14</Naziv>
+    <Cijena>440</Cijena>
+    <Kategorija>laptopovi</Kategorija>
+    <Serviser>Milovic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>5050</SifraProizvoda>
+    <Naziv>HLADNJAK KOMB.SAMSUNG RB34T652EB1/EK</Naziv>
+    <Cijena>560</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Popravke.doo</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>7070</SifraProizvoda>
+    <Naziv>HLADNJAK MAX NR20M358S</Naziv>
+    <Cijena>360</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Popravke.doo</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1515</SifraProizvoda>
+    <Naziv>VES MASINA SAMSUNG WW70T4040EE1LE</Naziv>
+    <Cijena>400</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Popravke.doo</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1616</SifraProizvoda>
+    <Naziv>VES MASINA SAMSUNG WW70T552DAW1S7</Naziv>
+    <Cijena>350</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Popravke.doo</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>9090</SifraProizvoda>
+    <Naziv>IPhone 12 MINI 128GB (PRODUCT)RED MGE53SE/A</Naziv>
+    <Cijena>990</Cijena>
+    <Kategorija>telefoni</Kategorija>
+    <Serviser>Popravke.doo</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1313</SifraProizvoda>
+    <Naziv>Samsung S21 Pink 128GB</Naziv>
+    <Cijena>700</Cijena>
+    <Kategorija>telefoni</Kategorija>
+    <Serviser>Popravke.doo</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>2121</SifraProizvoda>
+    <Naziv>LAPTOP LENOVO IDEAPAD 14IGL05 14" 81VU0037P</Naziv>
+    <Cijena>1500</Cijena>
+    <Kategorija>laptopovi</Kategorija>
+    <Serviser>Popravke.doo</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>3131</SifraProizvoda>
+    <Naziv>LAPTOP LENOVO L340-15 GAMING 81LK008GYA</Naziv>
+    <Cijena>1000</Cijena>
+    <Kategorija>laptopovi</Kategorija>
+    <Serviser>Popravke.doo</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>4141</SifraProizvoda>
+    <Naziv>MACBOOK AIR 13" RETINA/DC I3 1.1GHZ/8GB/256GB</Naziv>
+    <Cijena>1100</Cijena>
+    <Kategorija>laptopovi</Kategorija>
+    <Serviser>Popravke.doo</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>6060</SifraProizvoda>
+    <Naziv>HLADNJAK KOMB.SAMSUNG RB34T672FEL/EK</Naziv>
+    <Cijena>550</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Kalibri</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1717</SifraProizvoda>
+    <Naziv>VES MASINA SAMSUNG WW80T684DLH/S7</Naziv>
+    <Cijena>334</Cijena>
+    <Kategorija>bijelaTehnika</Kategorija>
+    <Serviser>Kalibri</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>8080</SifraProizvoda>
+    <Naziv>IPhone 12 64GB BLACK MGJ53PM/A</Naziv>
+    <Cijena>1100</Cijena>
+    <Kategorija>telefoni</Kategorija>
+    <Serviser>Kalibri</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1212</SifraProizvoda>
+    <Naziv>IPhone 12 PRO MAX 512GB GRAPHITE MGDG3CN/A</Naziv>
+    <Cijena>850</Cijena>
+    <Kategorija>telefoni</Kategorija>
+    <Serviser>Kalibri</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1414</SifraProizvoda>
+    <Naziv>Samsung S21 Plus Black 128GB</Naziv>
+    <Cijena>660</Cijena>
+    <Kategorija>telefoni</Kategorija>
+    <Serviser>Kalibri</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1818</SifraProizvoda>
+    <Naziv>LAPTOP ACER A715-72G-55Y5 NH.GXBEX.044</Naziv>
+    <Cijena>700</Cijena>
+    <Kategorija>laptopovi</Kategorija>
+    <Serviser>Kalibri</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1919</SifraProizvoda>
+    <Naziv>LAPTOP ACER NITRO 5 AN515-54-55NZ NH.Q59EX.037</Naziv>
+    <Cijena>900</Cijena>
+    <Kategorija>laptopovi</Kategorija>
+    <Serviser>Kalibri</Serviser>
+  </Proizvod>
+</Popis_proizvoda>

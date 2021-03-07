@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified"
+	elementFormDefault="qualified"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="Popis_prodaja">
+		<xs:annotation>
+			<xs:documentation>Comment describing your root element
+			</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Prodaja" type="Prodaja"
+					maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+    <xs:complexType name="Prodaja">
+    	<xs:sequence>
+    		<xs:element name="SifraProdaje" type="xs:int"></xs:element>
+    		<xs:element name="VrijemeProdaje">
+    			<xs:simpleType>
+    				<xs:restriction base="xs:string">
+    					<xs:pattern
+    						value="([0]?[1-9]|[1|2][0-9]|[3][0|1])[.]([0]?[1-9]|[1][0-2])[.]([0-9]{4}|[0-9]{2})">
+    					</xs:pattern>
+    				</xs:restriction>
+    			</xs:simpleType>
+    		</xs:element>
+    		<xs:element name="Kupac" type="xs:string"></xs:element>
+    		<xs:element name="BrojKupca">
+    			<xs:simpleType>
+    				<xs:restriction base="xs:string">
+    					<xs:pattern value="(06)[7-9][0-9]{6}"></xs:pattern>
+    				</xs:restriction>
+    			</xs:simpleType>
+    		</xs:element>
+    		<xs:element name="SifraProizvoda" type="xs:int"></xs:element>
+    		<xs:element name="Racun">
+    			<xs:simpleType>
+    				<xs:restriction base="xs:int">
+    					<xs:minExclusive value="0"></xs:minExclusive>
+    					<xs:maxExclusive value="5000"></xs:maxExclusive>
+    				</xs:restriction>
+    			</xs:simpleType>
+    		</xs:element>
+    	</xs:sequence>
+    </xs:complexType>
+</xs:schema>

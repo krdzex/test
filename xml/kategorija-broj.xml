@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Popis_proizvoda>
+  <Proizvod>
+    <SifraProizvoda>4040</SifraProizvoda>
+    <Naziv>Iphone 5</Naziv>
+    <Cijena>300</Cijena>
+    <Kategorija>telefoni</Kategorija>
+    <Serviser>Zecevic</Serviser>
+  </Proizvod>
+  <Proizvod>
+    <SifraProizvoda>1212</SifraProizvoda>
+    <Naziv>IPhone 12 PRO MAX 512GB GRAPHITE MGDG3CN/A</Naziv>
+    <Cijena>850</Cijena>
+    <Kategorija>telefoni</Kategorija>
+    <Serviser>Kalibri</Serviser>
+  </Proizvod>
+</Popis_proizvoda>

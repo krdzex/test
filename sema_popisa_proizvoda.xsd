@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified"
+	elementFormDefault="qualified"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Popis_proizvoda">
+		<xs:annotation>
+			<xs:documentation>Comment describing your root element
+			</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Proizvod" type="Proizvod"
+					maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="Proizvod">
+		<xs:sequence>
+			<xs:element name="SifraProizvoda" type="xs:integer"></xs:element>
+			<xs:element name="Naziv" type="xs:string"></xs:element>
+			<xs:element name="Cijena">
+				<xs:simpleType>
+					<xs:restriction base="xs:integer">
+						<xs:minExclusive value="0"></xs:minExclusive>
+						<xs:maxExclusive value="5000"></xs:maxExclusive>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Kategorija">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="laptopovi"></xs:enumeration>
+						<xs:enumeration value="bijelaTehnika"></xs:enumeration>
+						<xs:enumeration value="telefoni"></xs:enumeration>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Serviser">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Zecevic"></xs:enumeration>
+						<xs:enumeration value="Milovic"></xs:enumeration>
+						<xs:enumeration value="Popravke.doo"></xs:enumeration>
+						<xs:enumeration value="Kalibri"></xs:enumeration>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>
